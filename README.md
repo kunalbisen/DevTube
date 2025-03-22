@@ -31,3 +31,14 @@ An open-source **video streaming platform** similar to YouTube, built using **fr
 - **Upload Videos** – Videos are uploaded and optimized with Bunny.net CDN.
 - **Watch & Interact** – Users can like, comment, and chat in real-time.
 - **Smooth Streaming** – Bunny.net ensures buffer-free, high-speed playback.
+
+- /devtube
+│── /public        # Static assets (CSS, JS, images)
+│── /views         # EJS templates
+│── /models        # Mongoose models (User, Video)
+│── /routes        # Express routes
+│── /controllers   # Business logic
+│── app.js         # Main server file
+│── package.json   # Dependencies & scripts
+│── .env           # Environment variables
+
