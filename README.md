@@ -26,8 +26,8 @@ An open-source **video streaming platform** similar to YouTube, built using **fr
 - Install [MongoDB](https://www.mongodb.com/)  
 - Create an account on [Bunny.net](https://bunny.net/)  
 
-##How It Works
-#### 1. Users Sign Up/Login – Using Google OAuth or local authentication.
-2️⃣ Upload Videos – Videos are uploaded and optimized with Bunny.net CDN.
-3️⃣ Watch & Interact – Users can like, comment, and chat in real-time.
-4️⃣ Smooth Streaming – Bunny.net ensures buffer-free, high-speed playback.
+## How It Works
+- **Users Sign Up/Login** – Using Google OAuth or local authentication.
+- **Upload Videos** – Videos are uploaded and optimized with Bunny.net CDN.
+- **Watch & Interact** – Users can like, comment, and chat in real-time.
+- **Smooth Streaming** – Bunny.net ensures buffer-free, high-speed playback.
