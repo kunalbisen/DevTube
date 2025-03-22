@@ -1,4 +1,4 @@
-# DEVTUBE 
+# DevTube 
 
 An open-source **video streaming platform** similar to YouTube, built using **free technologies** to provide seamless video uploading, sharing, and real-time interactions.  
 
