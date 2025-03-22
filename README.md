@@ -32,7 +32,8 @@ An open-source **video streaming platform** similar to YouTube, built using **fr
 - **Watch & Interact** – Users can like, comment, and chat in real-time.
 - **Smooth Streaming** – Bunny.net ensures buffer-free, high-speed playback.
 
-- /devtube
+```bash
+ /devtube
 │── /public        # Static assets (CSS, JS, images)
 │── /views         # EJS templates
 │── /models        # Mongoose models (User, Video)
@@ -41,4 +42,4 @@ An open-source **video streaming platform** similar to YouTube, built using **fr
 │── app.js         # Main server file
 │── package.json   # Dependencies & scripts
 │── .env           # Environment variables
-
+```
